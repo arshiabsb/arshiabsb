@@ -21,15 +21,15 @@
 ---
 
 ## 📊 Live Interactive Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Arshia's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Arshia's Coding Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arshiabsb&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiabsb&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiabsb&layout=compact&theme=tokyonight" width="60%"/>
 </p>
-
 ---
 
 ## 📈 Current Focus & Coding Journey
